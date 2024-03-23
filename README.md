@@ -8,11 +8,13 @@ Una aplicación simple de lista de tareas desarrollada en SwiftUI para iOS.
 - Posibilidad de eliminar tareas deslizando hacia la izquierda.
 - Barra de búsqueda para filtrar tareas por título.
 - Botón para agregar nuevas tareas.
+- Modo obscuro y modo claro.
 
 ## Capturas de Pantalla
 
-![Lista de Tareas](screenshots/todo_list.png)
-![Agregar Tarea](screenshots/add_todo.png)
+<img src="https://i.postimg.cc/brHx6jB7/Simulator-Screenshot-i-Phone-15-Pro-2024-03-23-at-18-00-06.png" width=250/> <img src="https://i.postimg.cc/5tSfN7Dx/Simulator-Screenshot-i-Phone-15-Pro-2024-03-23-at-18-01-20.png" width=250/>
+
+![Agregar Tarea](){:height="300px" width="400px"}
 ...
 
 ## Instalación
