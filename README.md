@@ -14,9 +14,6 @@ Una aplicación simple de lista de tareas desarrollada en SwiftUI para iOS.
 
 <img src="https://i.postimg.cc/brHx6jB7/Simulator-Screenshot-i-Phone-15-Pro-2024-03-23-at-18-00-06.png" width=250/> <img src="https://i.postimg.cc/5tSfN7Dx/Simulator-Screenshot-i-Phone-15-Pro-2024-03-23-at-18-01-20.png" width=250/>
 
-![Agregar Tarea](){:height="300px" width="400px"}
-...
-
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/tu_usuario/todo-list.git`
